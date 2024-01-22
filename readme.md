@@ -1,6 +1,14 @@
 Loggbok
 ==================
 
+22-01-24
+------------------
+Idag började jag med att kolla på videor på hur man skriver kod när det gäller saker som är random(ex tärningar). Jag gjorde även uppgifterna på testprovet och jag börjar känna mig redo att göra prov på torsdag. Tycker fortfarande att det är klurigt med "random" kod men det börjar kännas bättre.
+
+15-01-24
+------------------
+Idag pluggade jag en del inför prov 8. Min plan är att jag ska klara provet nästa vecka. Jag har fortfarande lite problem med uppgift 2 på testprovet och liknande sådana uppgifter. 
+
 04-12-23
 ------------------
 Idag gick det bra.

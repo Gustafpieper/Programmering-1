@@ -1,6 +1,21 @@
 Loggbok
 ==================
 
+Black Jack
+
+1. En kortlek
+2. Kan få kort till handen
+3. Kort till huset
+4. Regler ...
+
+11-04-24
+------------------
+Idag lyckades jag göra en kortlek där jag kan dra ett random kort. Nästa lektion ska jag försöka få till så att spelaren och huset har en egen hand med kort så att man kan dra flera kort. 
+
+11-03-24
+------------------
+Idag pluggade jag på test 9 och 10 och skrev en del kod. Försöker lära mig att förstå koden eftersom det är det som kommer på test 9. 
+
 22-01-24
 ------------------
 Idag började jag med att kolla på videor på hur man skriver kod när det gäller saker som är random(ex tärningar). Jag gjorde även uppgifterna på testprovet och jag börjar känna mig redo att göra prov på torsdag. Tycker fortfarande att det är klurigt med "random" kod men det börjar kännas bättre.

@@ -8,6 +8,10 @@ Black Jack
 3. Kort till huset
 4. Regler ...
 
+25-04-24
+------------------
+Idag blev det inte mycket gjort då jag var på möte med mitt UF och Ronnie. Jag ska satsa på att jobba lite till helgen och så skriver jag vidare i loggboken efter det. 
+
 18-04-24
 ------------------
 Idag så gjorde jag så att jag blandade korten(på ett snyggare sätt) genom att använda mig av definitioner. Jag har även börjat så jag kan ta flera kort i framtiden. Jag har även gett mina kort värde så att t.ex en tvåa är värd 2 och en kung är värd 10. 

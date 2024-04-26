@@ -8,6 +8,10 @@ Black Jack
 3. Kort till huset
 4. Regler ...
 
+26-04-24
+------------------
+Jag jobbade bara en liten stund men jag ändrade en stor del så kände att jag var tvungen o skriva lite. Jag kollade runt och märkte att många använder sig av en dictionary för att sätta värde på korten så jag ändrade och gjorde så jag också. Jag började även experimentera med att bara printa ut kortens värde och inte all annant info.
+
 25-04-24
 ------------------
 Idag blev det inte mycket gjort då jag var på möte med mitt UF och Ronnie. Jag ska satsa på att jobba lite till helgen och så skriver jag vidare i loggboken efter det. 

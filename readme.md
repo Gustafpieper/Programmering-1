@@ -8,6 +8,10 @@ Black Jack
 3. Kort till huset
 4. Regler ...
 
+03-05-24
+------------------
+Idag så satt jag lite mellan några lektioner och skrev lite. Jag är klar med kortleken nu tror jag. Jag har även påbörjat koden till spelarens hand och datorns hand. Började även att testa att fixa så att ess både kan vara 11 och 1, hade lite problem med hur jag skulle gå till väga med det men tror jag har fixat en lösning m,en jag har inte testat den än. Nästa gång ska jag kolla om min funktion med ess funkar och även försöka få klart koden till händerna. 
+
 26-04-24
 ------------------
 Jag jobbade bara en liten stund men jag ändrade en stor del så kände att jag var tvungen o skriva lite. Jag kollade runt och märkte att många använder sig av en dictionary för att sätta värde på korten så jag ändrade och gjorde så jag också. Jag började även experimentera med att bara printa ut kortens värde och inte all annant info.
